@@ -1,10 +1,14 @@
-using System;
+﻿class Boxing{
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
+    public static void Main(){
+        int a = 10,b;
+        object o;
+        o = a;
+        Console.WriteLine(o);
+
+        b = (int)o;
+        Console.WriteLine(b);
+        
     }
+
 }
-    

@@ -1,0 +1,15 @@
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\bin\Debug\net9.0\Vishwajeet.exe
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\bin\Debug\net9.0\Vishwajeet.deps.json
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\bin\Debug\net9.0\Vishwajeet.runtimeconfig.json
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\bin\Debug\net9.0\Vishwajeet.dll
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\bin\Debug\net9.0\Vishwajeet.pdb
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.AssemblyInfoInputs.cache
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.AssemblyInfo.cs
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.csproj.CoreCompileInputs.cache
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.sourcelink.json
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.dll
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\refint\Vishwajeet.dll
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.pdb
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\Vishwajeet.genruntimeconfig.cache
+C:\Users\Vishu\OneDrive\Desktop\Dotnet\Dotnet\Vishwajeet\obj\Debug\net9.0\ref\Vishwajeet.dll
