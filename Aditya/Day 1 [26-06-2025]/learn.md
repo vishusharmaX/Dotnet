@@ -37,7 +37,7 @@ class hello
    {
           int a = 10, b = 20, c;
           c = a + b;
-          System.Console.WriteLine("Hello World");
+          System.Console.WriteLine("Result is " +c);
    }
 }
 ```
@@ -52,7 +52,22 @@ This diagram illustrates the compile time and run time relationships of c# sourc
 
 - CLR is the virtual machine of .net framework used for converting the native code to machine code
 - After the code is compiled it is saved as a MSIL metadata
-  
-  
+---
+
+### Simple interest code
+
+```c#
+using System;
+class SI
+{
+   public static void Main()
+   {
+          float p = 12000,r=2,t=2,si;
+          si = (p*r*t)/100;
+          Console.WriteLine("simple interest is {0}", si);
+   }
+}
+```
+
 
 
